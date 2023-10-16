@@ -3,6 +3,13 @@ Density functional theory (DFT)-based Genetic algorithm (GA) code for structural
 
 ![schematics or graphical abstract](imgs/pydrifts3d_scheme.png)  
 
+# How to use
+```
+sdfdfdf`
+sdfsdfsdf
+sdfsdfd
+```
+
 ## Application of this code
 This code has been utilized in the following published papers:
 1. Comparison of Pd metal dispersions on two difference CeO2 facet:  
