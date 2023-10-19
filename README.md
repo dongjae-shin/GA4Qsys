@@ -13,7 +13,7 @@ The flow of the code and data, and the crontab-based repeated interaction with a
 The flowchart above was re-designed based on the figures in the original paper for the GA code implemented in the ASE module [*J. Chem. Phys.* **2014**, 141, 044711].
 
 ## How to use
-
+[link to codes](essential_codes/)
 1. Prepare essential codes for the calculation in the same directory:   
 
    `calc.py`, `ga_init.py`, `ga_main_queue.py`, `POSCAR` (to be used as support) 
